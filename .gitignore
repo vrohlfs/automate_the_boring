@@ -1,0 +1,21 @@
+# Ignore .gitignore itself - some folks do this
+# .gitignore
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore Mac system files
+.vscode/*
+
+# exception to the rule
+# !somefolder/.gitkeep 
+
+# Not needed file
+*syntax.txt
+*.pdf
+
+# Chached files
+*_pycahche_*
+
+# Config file
+dev_settings.py
